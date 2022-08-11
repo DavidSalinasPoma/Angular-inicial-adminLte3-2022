@@ -1,0 +1,13 @@
+.usuario {
+  transition: all .5s;
+}
+
+.usuario:hover {
+  color: #c9c8c8 !important;
+}
+
+.dropdown-menu {
+  left: -100px !important;
+  padding: 0 !important;
+  min-width: 20rem !important;
+}

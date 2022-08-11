@@ -1,0 +1,20 @@
+/* The hero image */
+.hero-imagen {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-color: rgb(17, 36, 61);
+  background-image: url("./../../../assets/dist/img/plantilla/back.png");
+
+  /* Set a specific height */
+  width: 100%;
+  height: 100vh;
+
+  /* Position and center the image to scale nicely on all screens */
+  /* background-repeat: no-repeat; */
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+}
+
+.imagen-logo {
+  width: 100px;
+}
